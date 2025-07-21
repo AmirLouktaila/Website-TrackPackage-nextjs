@@ -1,0 +1,69 @@
+{
+    "trackingNumber": "EX249653913SG",
+    "newTrackingNumber": null,
+    "events": [
+        {
+            "status": "Distribué",
+            "location": "ANNABA AEROPORT EMS",
+            "timestamp": "2024-05-26 19:43",
+            "completed": true,
+            "icon": "📍"
+        },
+        {
+            "status": "En cours d'acheminement",
+            "location": "AGENCE EMS SETIF",
+            "timestamp": "2024-05-07 12:21",
+            "completed": true,
+            "icon": "📍"
+        },
+        {
+            "status": "Expédier envoi à adresse nationale (Ent)",
+            "location": "EMS Algiers International Center",
+            "timestamp": "2024-05-06 10:24",
+            "completed": true,
+            "icon": "📍"
+        },
+        {
+            "status": "Arrivée au pays de destination",
+            "location": "EMS Algiers International Center",
+            "timestamp": "2024-05-06 08:20",
+            "completed": true,
+            "icon": "📍"
+        },
+        {
+            "status": "Attente de controle douane",
+            "location": "EMS Algiers International Center",
+            "timestamp": "2024-03-21 13:35",
+            "completed": true,
+            "icon": "📍"
+        },
+        {
+            "status": "Départ vers le pays de destination",
+            "location": "SGSING",
+            "timestamp": "2024-03-12 17:43",
+            "completed": true,
+            "icon": "📍"
+        },
+        {
+            "status": "Arrivée au centre d'exportation",
+            "location": "SGSIND",
+            "timestamp": "2024-03-12 16:40",
+            "completed": true,
+            "icon": "📍"
+        },
+        {
+            "status": "Envoi déposé",
+            "location": "SGSIND",
+            "timestamp": "2024-03-12 16:30",
+            "completed": false,
+            "icon": "📍"
+        }
+    ],
+    "lastEvent": {
+        "status": "Distribué",
+        "location": "ANNABA AEROPORT EMS",
+        "timestamp": "2024-05-26 19:43",
+        "completed": true,
+        "icon": "📍"
+    }
+}
